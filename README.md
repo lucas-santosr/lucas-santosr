@@ -12,7 +12,7 @@ Tenho vivência em **operações em tempo real, gestão de indicadores, automaç
 
 ### 🛠️ Linguagens & Query Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-000000?logo=powerbi&logoColor=white) ![M Language](https://img.shields.io/badge/Power%20Query%20M-0E5C96?logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-000000?logo=powerbi&logoColor=white) ![M Language](https://img.shields.io/badge/Power%20Query%20M-0E5C96?logo=powerbi&logoColor=white)
 
 
 ### 📊 Data & Analytics
@@ -22,7 +22,7 @@ Tenho vivência em **operações em tempo real, gestão de indicadores, automaç
 
 ### 🤖 Automação & Backend
 
-![n8n](https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 **Principais usos:**  
 ➔ Automações com Webhooks + APIs  
